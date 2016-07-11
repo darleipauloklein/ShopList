@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ShopList</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="msg_splash">Wait! Loading system...</string>
+    <string name="txt_login">Login</string>
+    <string name="txtPassword">Password:</string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_shop_list">ShopListActivity</string>
+    <string name="edtDescricao">Description</string>
+    <string name="edtQuantidade">Amount</string>
+    <string name="txtUnidadeMedida">Measure Unit</string>
+    <string name="btnSalvar">Save</string>
+    <string name="btnCancelar">Cancel</string>
+
+    <string-array name="aUnidadeMedida">
+        <item>KG</item>
+        <item>G</item>
+        <item>L</item>
+        <item>UN</item>
+        <item>PC</item>
+        <item>CM</item>
+        <item>M</item>
+    </string-array>
+    <string name="title_activity_cadastro_usuario">CadastroUsuarioActivity</string>
+    <string name="mnUsuario">User</string>
+    <string name="mnSair">Exit</string>
+    <string name="title_activity_usuario">UsuarioActivity</string>
+    <string name="edtName">Name</string>
+    <string name="edtLogin">Login</string>
+    <string name="edtSenha">Password</string>
+    <string name="txtLatitude">Latitude</string>
+    <string name="txtLogitude">Longitude</string>
+    <string name="btnTirarFoto">Take Picture</string>
+    <string name="title_activity_mapa">Mapa</string>
+</resources>

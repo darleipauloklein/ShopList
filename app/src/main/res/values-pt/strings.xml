@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShopList</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="btnSalvar">Salvar</string>
+    <string name="edtDescricao">Descrição</string>
+    <string name="edtLogin">Login</string>
+    <string name="edtName">Nome</string>
+    <string name="edtQuantidade">Quantidade</string>
+    <string name="edtSenha">Senha</string>
+    <string name="exit">Sair</string>
+    <string name="hello_world">Olá Mundo!</string>
+    <string name="mnSair">Sair</string>
+    <string name="mnUsuario">Usuario</string>
+    <string name="msg_splash">Aguarde, Carregando o sistema...</string>
+    <string name="txtLatitude">Latitude</string>
+    <string name="txtLogitude">Longitude</string>
+    <string name="txtPassword">Senha:</string>
+    <string name="txtUnidadeMedida">Unidade de Medida</string>
+    <string name="txt_login">Login</string>
+    <string name="btnTirarFoto">Tirar Foto</string>
+</resources>
